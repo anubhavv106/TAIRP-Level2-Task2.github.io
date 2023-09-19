@@ -1,7 +1,7 @@
 
 #   Weather Web App
 
-This is a simple todolist web application built using HTML,CSS AND JAVASCRIPT.Users can add, update, and delete todos.
+This is a simple Weather web application built using HTML,CSS AND JAVASCRIPT.
 
 ## 🚀 Features
 
