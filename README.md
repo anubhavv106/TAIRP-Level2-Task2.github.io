@@ -1,4 +1,3 @@
-
 #   Weather Web App
 
 This is a simple Weather web application built using HTML,CSS AND JAVASCRIPT.
