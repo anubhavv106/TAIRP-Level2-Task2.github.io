@@ -6,7 +6,7 @@ This is a simple Weather web application built using HTML,CSS AND JAVASCRIPT.
 
 - Friendly UI.
 - Weather API.
-- Dynamicaly update.
+- Dynamically update.
 
 ## 🛠️ Usage
 
