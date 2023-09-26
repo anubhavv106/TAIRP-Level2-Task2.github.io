@@ -1,19 +1,20 @@
-#   Weather Web App
 
-This is a simple Weather web application built using HTML,CSS AND JAVASCRIPT.
+#   Image gallery Filtering 
+
+This is a simple image gallery filtering web application built using HTML,CSS AND JAVASCRIPT,Which sort image accoring to the tags.
 
 ## 🚀 Features
 
 - Friendly UI.
-- Weather API.
-- Dynamically update.
+- Sorting.
+- Responsive.
 
 ## 🛠️ Usage
 
 1. Clone this repository: 
 ```bash 
 
-git clone https://github.com/anubhavv106/TAIRP-Level2-Task2.github.io
+git clone https://github.com/anubhavv106/TAIRP-Level2-Task3.github.io
    ```
 2. Open the `index.html` file in your browser.
 
@@ -25,7 +26,7 @@ git clone https://github.com/anubhavv106/TAIRP-Level2-Task2.github.io
 
 ## 🎥 Demo Video
 
-https://github.com/anubhavv106/TAIRP-Level2-Task2.github.io/assets/112748712/d8a25ee2-080e-4ca8-9a8b-2acbe0cdfa79
+https://github.com/anubhavv106/TAIRP-Level2-Task3.github.io/assets/112748712/a91259e6-3096-4606-aa2f-36a1d8470dd2
 
 ## 📝 License
 
